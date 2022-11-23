@@ -1,0 +1,1221 @@
+fileFormatVersion: 2
+guid: 978976b0f25527847843405e38d5c9c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1282474975353548139
+    second: textureBlocksSammer_0
+  - first:
+      213: -2238576007343275817
+    second: textureBlocksSammer_1
+  - first:
+      213: 7711666412268919934
+    second: textureBlocksSammer_2
+  - first:
+      213: 9201047151123507337
+    second: textureBlocksSammer_3
+  - first:
+      213: 4319360876824948575
+    second: textureBlocksSammer_4
+  - first:
+      213: -4946625042107483447
+    second: textureBlocksSammer_5
+  - first:
+      213: 9044537395442292607
+    second: textureBlocksSammer_6
+  - first:
+      213: 6437299693314924702
+    second: textureBlocksSammer_7
+  - first:
+      213: 4312746498957559257
+    second: textureBlocksSammer_8
+  - first:
+      213: -3129424741888566566
+    second: textureBlocksSammer_9
+  - first:
+      213: -6006092395852043594
+    second: textureBlocksSammer_10
+  - first:
+      213: -6675658482035506650
+    second: textureBlocksSammer_11
+  - first:
+      213: 579225486752442393
+    second: textureBlocksSammer_12
+  - first:
+      213: 3188641316327733871
+    second: textureBlocksSammer_13
+  - first:
+      213: 5097357066644835360
+    second: textureBlocksSammer_14
+  - first:
+      213: -773424845740767004
+    second: textureBlocksSammer_15
+  - first:
+      213: 4127592005179359310
+    second: textureBlocksSammer_16
+  - first:
+      213: 4400460501750403954
+    second: textureBlocksSammer_17
+  - first:
+      213: 3637602757080760055
+    second: textureBlocksSammer_18
+  - first:
+      213: -7243287947070609696
+    second: textureBlocksSammer_19
+  - first:
+      213: -6745777992663321935
+    second: textureBlocksSammer_20
+  - first:
+      213: -514100224729337119
+    second: textureBlocksSammer_21
+  - first:
+      213: -3528132039482631850
+    second: textureBlocksSammer_22
+  - first:
+      213: -3566283461120264769
+    second: textureBlocksSammer_23
+  - first:
+      213: -8102075287322662263
+    second: textureBlocksSammer_24
+  - first:
+      213: -4977576378046276301
+    second: textureBlocksSammer_25
+  - first:
+      213: -2940662005311131604
+    second: textureBlocksSammer_26
+  - first:
+      213: -760047465233013465
+    second: textureBlocksSammer_27
+  - first:
+      213: -6982565204919538619
+    second: textureBlocksSammer_28
+  - first:
+      213: -7731146783790707091
+    second: textureBlocksSammer_29
+  - first:
+      213: 1429144073947941299
+    second: textureBlocksSammer_30
+  - first:
+      213: -3460351740296556585
+    second: textureBlocksSammer_31
+  - first:
+      213: 3602007289503908734
+    second: textureBlocksSammer_32
+  - first:
+      213: -8639416512924302241
+    second: textureBlocksSammer_33
+  - first:
+      213: -5072020028513032050
+    second: textureBlocksSammer_34
+  - first:
+      213: 8308443316166610809
+    second: textureBlocksSammer_35
+  - first:
+      213: 3979457959201573421
+    second: textureBlocksSammer_36
+  - first:
+      213: 8246710878227401316
+    second: textureBlocksSammer_37
+  - first:
+      213: 2884082057276817549
+    second: textureBlocksSammer_38
+  - first:
+      213: 5124885608040911590
+    second: textureBlocksSammer_39
+  - first:
+      213: -3282812159724440004
+    second: textureBlocksSammer_40
+  - first:
+      213: 8464993618821080939
+    second: textureBlocksSammer_41
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: textureBlocksSammer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59259b40ecbb33ee0800000000000000
+      internalID: -1282474975353548139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 239
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d087975bfafee0e0800000000000000
+      internalID: -2238576007343275817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 239
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c99996eb7550b60800000000000000
+      internalID: 7711666412268919934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 240
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988265c72afa0bf70800000000000000
+      internalID: 9201047151123507337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 240
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5feedf15d371fb30800000000000000
+      internalID: 4319360876824948575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 240
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cab1288bbe0a5bb0800000000000000
+      internalID: -4946625042107483447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77131557d6a48d70800000000000000
+      internalID: 9044537395442292607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 199
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9064ccf6f1e55950800000000000000
+      internalID: 6437299693314924702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 199
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5cca44714f9db30800000000000000
+      internalID: 4312746498957559257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 201
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adad96417cc0294d0800000000000000
+      internalID: -3129424741888566566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 201
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba6011a9c216aca0800000000000000
+      internalID: -6006092395852043594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 201
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6224370dafb4b53a0800000000000000
+      internalID: -6675658482035506650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9186bb6e282d90800800000000000000
+      internalID: 579225486752442393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a39df0264504c20800000000000000
+      internalID: 3188641316327733871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c41b2ce337db640800000000000000
+      internalID: 5097357066644835360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 162
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e80929533e3445f0800000000000000
+      internalID: -773424845740767004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 162
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40457e4f07284930800000000000000
+      internalID: 4127592005179359310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 162
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27358fef283911d30800000000000000
+      internalID: 4400460501750403954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feb7c94f6c5b7230800000000000000
+      internalID: 3637602757080760055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6ecfc1dfbaa7b90800000000000000
+      internalID: -7243287947070609696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2b7a508ae2262a0800000000000000
+      internalID: -6745777992663321935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 123
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e23f06c19c8dd8f0800000000000000
+      internalID: -514100224729337119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 123
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65996f95a9e890fc0800000000000000
+      internalID: -3528132039482631850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 123
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5739b4614028ec0800000000000000
+      internalID: -3566283461120264769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a69abe375af8f80800000000000000
+      internalID: -8102075287322662263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d1d2018a81ceab0800000000000000
+      internalID: -4977576378046276301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2031f88c7ba037d0800000000000000
+      internalID: -2940662005311131604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725a9567bd4c375f0800000000000000
+      internalID: -760047465233013465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ca4cbf0f1f81f90800000000000000
+      internalID: -6982565204919538619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e40c526f275b490800000000000000
+      internalID: -7731146783790707091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9858c96f655d310800000000000000
+      internalID: 1429144073947941299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df08b90d6c5affc0800000000000000
+      internalID: -3460351740296556585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e738f39ab86ecf130800000000000000
+      internalID: 3602007289503908734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54c0808470aa1880800000000000000
+      internalID: -8639416512924302241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_34
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8860d228a09c99b0800000000000000
+      internalID: -5072020028513032050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f44901d258d4370800000000000000
+      internalID: 8308443316166610809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a8fc80eefd93730800000000000000
+      internalID: 3979457959201573421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a081ec9d3327270800000000000000
+      internalID: 8246710878227401316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80001fb951560820800000000000000
+      internalID: 2884082057276817549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_39
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e25ac5ce404f1740800000000000000
+      internalID: 5124885608040911590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_40
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36ba4bdbbb1172d0800000000000000
+      internalID: -3282812159724440004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textureBlocksSammer_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6767cbc8d2b97570800000000000000
+      internalID: 8464993618821080939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      textureBlocksSammer_27: -760047465233013465
+      textureBlocksSammer_22: -3528132039482631850
+      textureBlocksSammer_30: 1429144073947941299
+      textureBlocksSammer_3: 9201047151123507337
+      textureBlocksSammer_26: -2940662005311131604
+      textureBlocksSammer_32: 3602007289503908734
+      textureBlocksSammer_20: -6745777992663321935
+      textureBlocksSammer_18: 3637602757080760055
+      textureBlocksSammer_10: -6006092395852043594
+      textureBlocksSammer_28: -6982565204919538619
+      textureBlocksSammer_35: 8308443316166610809
+      textureBlocksSammer_7: 6437299693314924702
+      textureBlocksSammer_31: -3460351740296556585
+      textureBlocksSammer_25: -4977576378046276301
+      textureBlocksSammer_4: 4319360876824948575
+      textureBlocksSammer_24: -8102075287322662263
+      textureBlocksSammer_15: -773424845740767004
+      textureBlocksSammer_37: 8246710878227401316
+      textureBlocksSammer_39: 5124885608040911590
+      textureBlocksSammer_16: 4127592005179359310
+      textureBlocksSammer_17: 4400460501750403954
+      textureBlocksSammer_29: -7731146783790707091
+      textureBlocksSammer_40: -3282812159724440004
+      textureBlocksSammer_33: -8639416512924302241
+      textureBlocksSammer_1: -2238576007343275817
+      textureBlocksSammer_0: -1282474975353548139
+      textureBlocksSammer_11: -6675658482035506650
+      textureBlocksSammer_19: -7243287947070609696
+      textureBlocksSammer_6: 9044537395442292607
+      textureBlocksSammer_8: 4312746498957559257
+      textureBlocksSammer_14: 5097357066644835360
+      textureBlocksSammer_5: -4946625042107483447
+      textureBlocksSammer_41: 8464993618821080939
+      textureBlocksSammer_12: 579225486752442393
+      textureBlocksSammer_21: -514100224729337119
+      textureBlocksSammer_9: -3129424741888566566
+      textureBlocksSammer_36: 3979457959201573421
+      textureBlocksSammer_38: 2884082057276817549
+      textureBlocksSammer_2: 7711666412268919934
+      textureBlocksSammer_23: -3566283461120264769
+      textureBlocksSammer_34: -5072020028513032050
+      textureBlocksSammer_13: 3188641316327733871
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

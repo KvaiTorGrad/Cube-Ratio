@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916331929481",
+    "project_id": "ration-37ffb",
+    "storage_bucket": "ration-37ffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916331929481:android:463a5c4aefc0a774b38b58",
+        "android_client_info": {
+          "package_name": "com.KvaiTorGrad.Ratio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916331929481-iu9jvfr3k1iq6glcd2n3mui0c7n1gia9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgsvYz28LDgnG4VL_JrFooojLlxkgpx1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916331929481-iu9jvfr3k1iq6glcd2n3mui0c7n1gia9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
